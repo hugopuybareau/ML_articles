@@ -1,0 +1,5 @@
+# article pdfs
+articles/
+
+# permanent
+.DS_store
