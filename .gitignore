@@ -3,3 +3,6 @@ articles/
 
 # permanent
 .DS_store
+
+# images
+images/
